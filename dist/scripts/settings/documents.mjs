@@ -5,13 +5,20 @@ export const Documents = [
         heading: "Getting started",
         items: [
             {
-                title: "Installation",
-                href: "/installation",
+                title: "Introduction 1",
+                href: "/introduction1",
+                heading: "Getting started 1",
+                items: [
+                    {
+                        title: "Installation 1",
+                        href: "/installation1",
+                    },
+                ]
             },
-            {
-                title: "Setup",
-                href: "/setup",
-            },
+            // {
+            //   title: "Setup",
+            //   href: "/setup",
+            // },
             {
                 title: "Changelog",
                 href: "/changelog",
@@ -27,64 +34,13 @@ export const Documents = [
         heading: "Documents",
     },
     {
-        title: "Structure",
-        href: "/structure",
+        title: "C# Programing",
+        href: "/CSharpPrograming",
+        heading: "Programing Notes",
         items: [
             {
-                title: "Deeper",
-                href: "/deeper",
-                items: [
-                    {
-                        title: "Even deeper",
-                        href: "/even-deeper",
-                    },
-                ]
-            },
-        ],
-    },
-    {
-        spacer: true,
-    },
-    {
-        title: "Markup",
-        href: "/markup",
-        heading: "Components",
-        items: [
-            {
-                title: "Cards",
-                href: "/cards",
-            },
-            {
-                title: "Diagrams",
-                href: "/diagrams",
-            },
-            {
-                title: "Filetree",
-                href: "/filetree",
-            },
-            {
-                title: "Lists",
-                href: "/lists",
-            },
-            {
-                title: "Maths",
-                href: "/maths",
-            },
-            {
-                title: "Notes",
-                href: "/notes",
-            },
-            {
-                title: "Steps",
-                href: "/steps",
-            },
-            {
-                title: "Table",
-                href: "/table",
-            },
-            {
-                title: "Tabs",
-                href: "/tabs",
+                title: "Ghi chú thứ nhất",
+                href: "/note1",
             },
         ],
     },
