@@ -20,13 +20,13 @@ export function Footer() {
           <div className="text-center hidden md:block">
             <Link 
               className="font-semibold" 
-              href="https://www.rubixstudios.com.au"
+              href="https://phuocit.tech"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Image
                 src="/logo.svg"
-                alt="Rubix Studios Logo"
+                alt="Phuoc IT Tech Logo"
                 width={30}
                 height={30}
               />

@@ -10,14 +10,14 @@ export default function Home() {
         Documents
       </h1>
       <p className="max-w-[600px] text-foreground mb-8 sm:text-base">
-        A simple open-source product documentation platform. That&apos;s simple to use and easy to customize.
+        Các tài liệu cần lưu lại và ghi nhớ sẽ được tổng hợp và chia sẻ tại đây. Các tài liệu này sẽ hoàn toàn công khai.
       </p>
       <div className="flex items-center gap-5">
         <Link
           href={`/docs${PageRoutes[0].href}`}
           className={buttonVariants({ className: "px-6", size: "lg" })}
         >
-          Get Started
+          Bắt đầu
         </Link>
       </div>
     </div>
