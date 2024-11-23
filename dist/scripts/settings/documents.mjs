@@ -19,6 +19,17 @@ export const Documents = [
         heading: "Documents",
     },
     {
+        title: "Oracle",
+        href: "/Oracle",
+        heading: "Oracle Notes",
+        items: [
+            {
+                title: "Ghi chú thứ nhất",
+                href: "/note1",
+            },
+        ],
+    },
+    {
         title: "C# Programing",
         href: "/CSharpPrograming",
         heading: "Programing Notes",
