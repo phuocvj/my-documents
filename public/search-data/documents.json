@@ -36,6 +36,12 @@
     "content": "## Các ghi chú bên trong 123\n"
   },
   {
+    "slug": "/Oracle/note1",
+    "title": "Programing",
+    "description": "Các ghi chú bên trong",
+    "content": "## Note Oracle page\n"
+  },
+  {
     "slug": "/random",
     "title": "Introduction",
     "description": "This section provides an overview of Introduction.",

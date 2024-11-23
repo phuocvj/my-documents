@@ -5,21 +5,6 @@ export const Documents = [
         heading: "Getting started",
         items: [
             {
-                title: "Introduction 1",
-                href: "/introduction1",
-                heading: "Getting started 1",
-                items: [
-                    {
-                        title: "Installation 1",
-                        href: "/installation1",
-                    },
-                ]
-            },
-            // {
-            //   title: "Setup",
-            //   href: "/setup",
-            // },
-            {
                 title: "Changelog",
                 href: "/changelog",
             },
